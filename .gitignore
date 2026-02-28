@@ -1,0 +1,5 @@
+# Ignore non-site files (optional: only index.html, style.css, script.js are deployed)
+*.docx
+*.py
+temp_utf8.txt
+_content_out.txt
